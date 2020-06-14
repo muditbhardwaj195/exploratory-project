@@ -39,7 +39,7 @@ Execute the following commands to run this code
 ```
 SUMMARY
 --------------------  ------------------------------------------------------------------------
-Algorithms Used       Gaussian Process Classifier, Hidden Markov Model using viterbi algorithm
+Algorithms Used       Gaussian Process Classifier, Agglomerative Hierarchical Clustering,Divide and Conquer Approach for label prediction
 Accuracy              95.45%
 Earliness             15.09%
 Sensors               5
